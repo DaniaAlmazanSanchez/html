@@ -1,0 +1,17 @@
+#caja1{
+ background-color: rgb(166, 215, 221);
+}
+
+
+.red, .red1{
+    color: red;
+    
+}
+#verde{
+    color:green;
+}
+.blanco{
+    background-color: honeydew;
+    width: 30px;
+  
+}

@@ -1,0 +1,34 @@
+body{
+    background: radial-gradient(rgb(34, 184, 230) 50%, blue 50%);
+    justify-content: center;
+    height: 100vw;
+}
+h1{
+    color:white;
+    text-align: center;
+}
+
+p {
+   color: blue;
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+}
+button{
+    border-radius: 20px;
+    border: 1px solid slateblue;
+    padding: 10px 30px;
+    color: blue;
+
+}
+button:hover{
+background-color: rgb(117, 180, 243);
+}
+#caja{
+    background-color: rgb(188, 188, 240);
+    text-align: center;
+    width: 300px;/*ancho del recuadro*/
+    height: 400px;
+    margin:0 auto;/*centrar caja*/
+
+}
