@@ -1,0 +1,30 @@
+#caja{
+    background-color: rgb(185, 189, 189);
+    
+}
+
+main>article>section>h2{
+background-color: grey;
+margin-bottom: 30px;
+}
+.blanco{
+background-color: seashell;
+}
+main>article>section>div>blockquote>p>em{
+    color: red;
+}
+main>article>section>div>p>{
+    text-align: justify;
+    text-indent: 15px;
+}
+img{
+float: left;
+margin-right: 20px;
+width: 130px; 
+
+
+}
+main{
+    width: 80%;
+    margin:0 auto;
+}
